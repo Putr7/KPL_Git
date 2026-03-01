@@ -1,9 +1,6 @@
 aku pria
 
-<<<<<<< Updated upstream
 manusia rubah
-=======
 aku manusia
 
 tiada tara
->>>>>>> Stashed changes
